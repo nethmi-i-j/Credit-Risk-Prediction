@@ -4,6 +4,8 @@ An end-to-end machine learning project that predicts loan default risk and expla
 
 ## Overview
 
+
+
 This project trains a credit risk model on applicant financial data (32,581 records) and deploys it as an interactive Streamlit web interface. Beyond just predicting default probability, the app pairs SHAP feature attribution with an LLM-powered explanation layer, translating raw model outputs into a clear, human-readable summary of why an applicant was scored as risky or low-risk.
 
 ## Features
